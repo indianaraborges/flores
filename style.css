@@ -1,0 +1,33 @@
+body{
+    color: rgb(100, 0, 42);
+    background-color: rgb(245, 32, 199);
+    font-variant-alternates: ornaments(font-variant-alternates);
+    
+
+}
+h1{
+    color: rgb(65, 5, 30);
+    
+    align-items: center;
+    padding: 100px;
+
+}
+h3{
+    color: rgb(165, 42, 110);
+    
+    align-items: center;
+    padding: 0px;
+
+
+}
+img{
+    width: 1000px;
+    height: 800px; ;
+    border-radius: 50%;
+    border-top: black;
+border: 10px solid rgb(17, 226, 87);
+
+}
+footer{
+    color: rgb(99, 42, 165);
+}
